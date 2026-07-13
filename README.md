@@ -1,5 +1,5 @@
 # Hi, I'm Waad :) 
-🎓 TAP student<br>🌱 Working with C++ & Python<br>👾 working on small Electronics projects along the way<br>🍄 Documenting my growth here
+🎓 TAP student<br>🌱 Working with C++ & Python<br>👾 building cool Electronics projects along the way<br>🍄 Documenting my growth here
 
 
 # 💻 Tech Stack:
